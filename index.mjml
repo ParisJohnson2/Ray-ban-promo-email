@@ -1,0 +1,293 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="rgb(255, 255, 255)">
+  
+    <mj-raw>
+       <!-- start of view online message -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)" padding-top="15px" padding-bottom="0px">
+      <mj-column>
+        <mj-text align="center" font-size="12px" font-weight="400" padding-top="0" padding-bottom="15px">
+          <a href="#" style="text-decoration: none; color: rgb(148, 148, 148);">Please <strong>click here</strong> if the email below is not displayed correctly</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of view online message -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of top logo img -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image href="#" alt="white-logo-img" src="./Components/white-ray-ban-logo.png" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of of top logo img -->
+    </mj-raw>
+      <mj-raw>
+      <!-- start of hero img/gif -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image href="#" alt="main-img" src="./Components/ray-ban-vid-hero.gif" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of hero img/gif -->
+    </mj-raw>
+      <mj-raw>
+      <!-- start of 50% sale section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="42px" font-weight="400" padding-top="20px" padding-bottom="5px" text-transform="uppercase" letter-spacing=".5px" line-height="30px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255)">UP TO 50% OFF</a>
+        </mj-text>
+        <mj-text align="center" font-size="25px" font-weight="400" padding-top="15px" padding-bottom="5px" text-transform="uppercase" letter-spacing=".5px" line-height="35px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255);">THE PERFECT TIME FOR HOLIDAY SHOPPING</a>
+        </mj-text>
+        <mj-text align="center" font-size="15px" font-weight="100" padding-top="5px" padding-bottom="20px" text-transform="capitalize" line-height="30px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255)">Give the gift that always works, now with up to 50% off for Black Friday. </a>
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0" width="100%">
+        <mj-image href="#" alt="sunglasses-btn-img" src="./Components/ray-ban-btn-img-1.png" padding-top="0" padding-bottom="15px" width="400px" />
+        <mj-image href="#" alt="find-store-btn-img" src="./Components/ray-ban-btn-img-2.png" padding="0 25px" width="400px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of 50% sale section  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of gift of ray-ban section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="25px" font-weight="400" padding-top="15px" padding-bottom="5px" text-transform="uppercase" letter-spacing=".5px" line-height="35px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255);">GIVE THE GIFT OF RAY-BAN</a>
+        </mj-text>
+        <mj-text align="center" font-size="15px" font-weight="100" padding-top="5px" padding-bottom="20px" text-transform="capitalize" line-height="30px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255)">Save on our best-selling styles for a guaranteed holiday hit. </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of gift of ray-ban section  -->
+    </mj-raw>
+      <mj-raw>
+      <!-- start of shop for men/women section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)">
+      <mj-column width="100%">
+        <mj-image href="#" alt="first-btn-img" src="./Components/ray-ban-img-1.png" padding-top="0" padding-bottom="15px" width="400px" />
+        
+      </mj-column>
+      <mj-column padding="25px" width="100%">
+        <mj-image href="#" alt="shop-men-btn-img" src="./Components/ray-ban-btn-img-3.png" padding-top="0" padding-bottom="15px" width="400px" />
+        <mj-image href="#" alt="shop-women-btn-img" src="./Components/ray-ban-btn-img-4.png" padding="0 25px" width="400px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of shop for men/women section  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of shop custom styles section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)">
+      <mj-column width="100%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/ray-ban-img-2.png" padding-top="0" padding-bottom="15px" width="400px" />
+        
+        
+      </mj-column>
+      <mj-column padding="10px 75px" width="100%">
+       <mj-text align="center" font-size="20px" font-weight="300" padding-top="0px" padding-bottom="20px" text-transform="capitalize" line-height="30px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255)">Give the gift that always works, now with up to 50% off for Black Friday. </a>
+        </mj-text>
+        <mj-image href="#" alt="shop-custom-styles-btn-img" src="./Components/ray-ban-btn-img-5.png" padding-top="0" padding-bottom="15px" width="400px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of shop for custom styles section  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of shop smart glasses section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)">
+      <mj-column width="100%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/ray-ban-img-3.png" padding-top="0" padding-bottom="15px" width="400px" />
+      </mj-column>
+      <mj-column padding="10px 75px" width="100%">
+       <mj-text align="center" font-size="20px" font-weight="300" padding-top="0px" padding-bottom="20px" text-transform="capitalize" line-height="30px">
+          <a href="#" style="text-decoration: none; color: rgb(255, 255, 255)">With 20% off </a>
+        </mj-text>
+        <mj-image href="#" alt="shop-smart-glasses-btn-img" src="./Components/ray-ban-btn-img-6.png" padding-top="0" padding-bottom="15px" width="400px" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of shop for smart glasses section  -->
+    </mj-raw>
+     <mj-raw>
+      <!-- start of quick links section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)" padding-bottom="0">
+    <mj-group>
+
+      <mj-column width="50%">
+        <mj-image href="#" alt="quick-link-btn-1" src="./Components/quick-link-img-1.png" padding="0" width="400px" />
+      </mj-column>
+       <mj-column width="50%">
+        <mj-image href="#" alt="quick-link-btn-2" src="./Components/quick-link-img-2.png" padding="0" width="400px" />
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-image href="#" alt="quick-link-btn-3" src="./Components/quick-link-img-3.png" padding="0" width="400px" />
+      </mj-column>
+       <mj-column width="50%">
+        <mj-image href="#" alt="quick-link-btn-4" src="./Components/quick-link-img-4.png" padding="0" width="400px" />
+      </mj-column>
+
+       <mj-column width="100%">
+        <mj-image href="#" alt="quick-link-btn-5" src="./Components/quick-link-img-5.png" padding="0"  />
+      </mj-column>
+
+    </mj-group>
+      
+    </mj-section>
+    <mj-raw>
+      <!-- end of quick links section  -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of 5 info links section -->
+    </mj-raw>
+    <mj-section background-color="rgb(0, 0, 0)" padding-top="0" padding-bottom="0">
+    <mj-group>
+
+      <mj-column width="20%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/five-link-img-1.png" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/five-link-img-2.png" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/five-link-img-3.png" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/five-link-img-4.png" padding="0" />
+      </mj-column>
+      <mj-column width="20%">
+        <mj-image href="#" alt="second-btn-img" src="./Components/five-link-img-4.png" padding="0" />
+      </mj-column>    
+
+    </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- end of 5 info links section  -->
+    </mj-raw>  
+    <mj-raw>
+      <!-- start of holiday season link and socails section -->
+    </mj-raw>
+    <mj-section background-color="rgb(255, 255, 255)" padding-top=".5px" padding-bottom="0">
+      <mj-column width="100%">
+
+
+      <mj-divider border-width="2px" border-style="solid" border-color="rgb(255, 255, 255)" padding="0" width="100%" />
+      </mj-column>
+
+
+      <mj-column width="50%" padding="0" background-color="rgb(255, 255, 255)">
+      <mj-text align="center" font-size="12px" font-weight="400" padding-top="15px" text-transform="uppercase" letter-spacing=".5px" line-height="19px">
+          <a href="#" style="text-decoration: none; color: rgb(47, 47, 47);">HOLIDAY SEASON: ENJOY 60-DAY EXTENDED RETURNS ON ORDERS PLACED BY 12/2.</a>
+        </mj-text>
+      </mj-column>
+ <mj-group width="50%">
+ <mj-column width="20%" padding-top="12px" padding-bottom="12px" background-color="rgb(0, 0, 0)">
+      <mj-image alt="facebook-logo" href="#" src="./Components/social-media-icon-1.png" height="25px" width="25px" padding="15px 0" />
+      </mj-column>
+
+       <mj-column width="20%" padding-top="12px" padding-bottom="12px" background-color="rgb(0, 0, 0)">
+
+      <mj-image alt="instagram-logo" href="#" src="./Components/social-media-icon-2.png" height="25px" width="25px" padding="15px 0" />
+      
+        
+  
+      </mj-column>
+       <mj-column width="20%" padding-top="12px" padding-bottom="12px" background-color="rgb(0, 0, 0)">
+
+      <mj-image alt="twitter-logo" href="#" src="./Components/social-media-icon-3.png" height="25px" width="25px" padding="15px 0" />
+      
+        
+  
+      </mj-column>
+       <mj-column width="20%" padding-top="12px" padding-bottom="12px" background-color="rgb(0, 0, 0)">
+
+      <mj-image alt="pinterest-logo" href="#" src="./Components/social-media-icon-4.png" height="25px" width="25px" padding="15px 0" />
+      
+        
+  
+      </mj-column>
+       <mj-column width="20%" padding-top="12px" padding-bottom="12px" background-color="rgb(0, 0, 0)">
+
+      <mj-image alt="youtube-logo" href="#" src="./Components/social-media-icon-5.png" height="25px" width="25px" padding="15px 0" />
+      
+        
+  
+      </mj-column>
+        </mj-group> 
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- end of holiday season link and socails section  -->
+    </mj-raw>
+
+
+
+   
+      <!-- start of footer -->
+    </mj-raw>
+    
+  
+    <mj-section background-color="rgb(0, 0, 0)" padding-top="0" padding-bottom="50px">
+    
+     <mj-column width="100%" padding-bottom="0">
+        <mj-text font-size="10px" line-height="18px" font-weight="400" align="left"  color="white" padding-bottom="0">
+          <p>RAY-BAN CUSTOMER CARE<br />866-4 RAYBAN (866-472-9226)</p>
+          <p>UP TO 50% OFF FOR BLACK FRIDAY<br />Receive 30% off any online order (Sunglasses, Eyeglasses, Accessories, Custom Styles) and Up to 50% off selected items at Ray-Ban.com and in selected Ray-Ban stores.<br />The promotion is valid from 11/24/2024 until 12/02/2024 included. <br />Ray-Ban reserves the right to exclude some products from the promotion at its sole discretion. Items excluded from this promotion include but are not limited to Gift Cards, Smart Glasses, Reverse Collection, Ferrari Collection,Change Collection, The Ones Exclusive, Corrigan LTD (0RB4397__667873), Wayfarer Way Change Holiday Limited (0RB2241__138731) Aviator Solid Gold, N2 new collection (product tagged as NEW).</p>
+<p>No cash-back value, it cannot be redeemed for cash. Additional restrictions may apply. While supplies last.</p>
+<p>20% OFF RAY-BAN META SMART GLASSES FOR BLACK FRIDAY <br />Receive 20% off Ray-Ban Meta Smart Glasses* purchased at Ray-Ban.comand in selected Ray-Ban stores. The promotion is valid from 11/22/2024 until 12/02/2024 included. Ray-Ban reserves the right to exclude some products from the promotion at its sole discretion. Items excluded from this promotion include but are not limited to Gift Cards,Reverse Collection, Ferrari Collection,Change Collection, The Ones Exclusive, Corrigan LTD (0RB4397__667873), Wayfarer Way Change Holiday Limited (0RB2241__138731) Aviator Solid Gold, N2 new collection (product tagged as NEW).</p>
+<p>No cash-back value, it cannot be redeemed for cash. Additional restrictions may apply. While supplies last.</p>
+<p>*Ray-Ban Meta smart glasses are for ages 13+. Offer valid from November 22, 2024 (0:00 am PT) through December 02, 2024 (11:59 pm PT), with the purchase of a new in-stock Ray-Ban Meta smart glasses (&ldquo;Qualifying Product&rdquo;) at&nbsp;www.ray-ban.com and in selected Ray-Ban stores, while supplies last. Offer valid in Ray-Ban Meta&nbsp;supported countries&nbsp;only. Meta View Account (&ldquo;Account&rdquo;), and mobile phone with Android or IOS operating system required. Not valid on Limited Edition, Wayfarer Transparent LTE. Offer is non-transferable and not valid for cash or cash equivalent. Cannot be combined with other offers, discounts, bundles, or coupons. To redeem, add Qualifying Product to your cart, and the Offer will be automatically applied on any qualifying purchase. Not valid on prior orders or purchases. Offer may be canceled or modified at any time without notice. Features, functionality and content are subject to change or be withdrawn at any time. Void where prohibited. Prescriptions, Software, and other features sold separately. Additional terms and fees may apply. For custom products (combinations of frames and lenses different from standard offerings), the promotion applies only to the frame. Lenses and services are not included in the promotion.</p>
+<p>50% OFF PRESCRIPTION LENSES Receive 50% off prescription lenses when adding them to a pair of sunglasses, eyeglasses and remix product (custom). The promotion cannot be combined with any other coupons, previous purchases or insurance plan. Ray-ban.com reserves the right to exclude some products from the promotion at its sole discretion.<br />Promotion is valid from 11/15/2024 until 01/07/2025 included. Ray-Ban reserves the right to remove or modify the promotion at every moment.</p>
+<p>EXTRA 10% OFF CUSTOM STYLES<br />Receive an extra 10% off when purchasing custom styles. Promotion is applied directly at checkout. Promo is valid from 11/30/2024 untill 12/01/2024 included on Ray-ban.com only and it's valid on custom styles only. No cash-back value, cannot be redeemed for cash. Ray-Ban reserves the right to exclude some products from the promotion at its sole discretion. Items excluded from this promotion include but are not limited to Gift Cards, Ray-Ban Meta Smart Glasses, Reverse Collection, Ferrari Collection,Change Collection, The Ones Exclusive, Corrigan LTD (0RB4397__667873), Wayfarer Way Change Holiday Limited (0RB2241__138731) Aviator Solid Gold, N2 new collection (product tagged as NEW).<br />Additional restrictions may apply.</p>
+<p>You are receiving this message because you expressed interest in news and offers from <a href="#" style="text-decoration: none; color: white;"><u>Ray-Ban</u></a> This email was sent to johnsonparis0@gmail.com. Ray-Ban respects your privacy. More detail regarding the use of your information can be viewed at: <br /><a href="#" style="text-decoration: none; color: white;"><u>https://www.ray-ban.com/usa/privacy-policy</u></a><br />See the delivery policy here.</p>
+
+
+        </mj-text>
+      </mj-column>
+
+      
+
+
+      <mj-column width="70%">
+        <mj-text font-size="10px" line-height="18px" font-weight="400" align="left"  color="white">
+        <p><a href="#" style="text-decoration: none; color: white;"><u>Copyright &copy;2024</u></a> Luxottica Group. All rights reserved.<br />Luxottica Retail North America Inc. 4000 Luxottica Place, Mason, Ohio 45040</p>
+         <p><a href="#" style="text-decoration: none; color: white;"><u>Unsubscribe from this list.</u></a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="30%">
+       <mj-image alt="red-ray-ban-logo" href="#" src="./Components/red-ray-ban-logo.jpg" width="150px" padding="15px 0" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
